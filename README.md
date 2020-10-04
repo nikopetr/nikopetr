@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 Currently a Computer Science student in Aristotle University of Thessaloniki in Greece 📖💻
+
 My main interests are Software-Development/Engineering, A.I. and Data science.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nikopetr&count_private=true&show_icons=true&theme=vue&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
