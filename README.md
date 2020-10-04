@@ -25,6 +25,6 @@ Most of my personal projects involve work that I have done around some of my uni
 Also, there are repositories with contributions that I've made to open source projects which involve game development 🎮🎲
 
 ### Most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikopetr&layout=compact&include_all_commits&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikopetr&layout=compact&include_all_commits&count_private=true&show_icons=true&theme=vue&exclude_repo=https://github.com/nikopetr/Memory-Game)](https://github.com/anuraghazra/github-readme-stats)
 
 
