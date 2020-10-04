@@ -24,7 +24,7 @@ My main interests are Software-Development/Engineering, A.I. and Data science.
 Most of my personal projects involve work that I have done around some of my university projects, as well as some small projects that I've developed with friends!
 Also, there are repositories with contributions that I've made to open source projects which involve game development 🎮🎲
 
-### Favorite languages
+### Most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikopetr&layout=compact&include_all_commits&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 
