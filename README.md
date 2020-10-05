@@ -28,7 +28,7 @@ Also, there are repositories with contributions that I've made to open source pr
 ### Most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikopetr&count_private=true&layout=compact&show_icons=true&theme=vue&exclude_repo=Memory-Game&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
 
-### Link to my personal Website
-https://nikopetr.github.io/Personal-Website/personal-page
+### [Link to my personal Website](https://nikopetr.github.io/Personal-Website/personal-page "Nikolas Petrou - Personal Website")
+
 
 
