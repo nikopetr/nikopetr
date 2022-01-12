@@ -25,7 +25,7 @@ His main interests involve Machine Learning, Data Mining, Information Retrieval,
 Most of my personal projects involve work that I've done around some of my university projects, as well as some small projects that I've developed with collagues. Also, there are repositories with contributions that I've made to open source projects which involve game development 🎮🎲
 
 ### Most used languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikopetr&layout=compact&show_icons=true&theme=vue&include_all_commits=true&count_private=true&langs_count=8&exclude_repo=R-Star-Tree,Memory-Game,nikopetr.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikopetr&layout=compact&show_icons=true&theme=vue&include_all_commits=true&count_private=true&langs_count=8&exclude_repo=R-Star-Tree,Memory-Game,Sentiment-Analysis-and-EDA-for-the-IMDB-Dataset,nikopetr.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 ### [Link to my personal Website](https://nikopetr.github.io/Personal-Website/personal-page "Nikolas Petrou - Personal Website")
 
