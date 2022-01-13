@@ -22,7 +22,7 @@ His main interests involve Machine Learning, Data Mining, Information Retrieval,
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nikopetr&count_private=true&show_icons=true&theme=vue&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Projects
-Most of my personal projects involve work that I've done around some of my university projects, as well as some small projects that I've developed with collagues. Also, there are repositories with contributions that I've made to open source projects which involve game development 🎮🎲
+Most of my personal projects involve work that I've done around some of my university projects, as well as some personal projects. Also, there are repositories with contributions that I've made to open-source projects which involve game development 🎮🎲
 
 ### Most used languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikopetr&layout=compact&show_icons=true&theme=vue&include_all_commits=true&count_private=true&langs_count=8&exclude_repo=R-Star-Tree,Memory-Game,Sentiment-Analysis-and-EDA-for-the-IMDB-Dataset,nikopetr.github.io)](https://github.com/anuraghazra/github-readme-stats)
